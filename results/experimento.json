@@ -1,0 +1,21 @@
+{
+  "author": "Jos\u00e9 Ignacio Valbuena",
+  "course": "Data Science III",
+  "commission": "102200",
+  "python": "3.12.14",
+  "torch": "2.15.0+cpu",
+  "sklearn": "1.8.0",
+  "device": "cpu",
+  "seed": 42,
+  "learning_rate": 0.01,
+  "epochs": 100,
+  "batch_size": 16,
+  "train_size": 120,
+  "val_size": 30,
+  "initial_train_loss": 1.152909247080485,
+  "initial_val_loss": 1.1489025354385376,
+  "final_train_loss": 0.040139726269990204,
+  "final_val_loss": 0.06631065805753072,
+  "final_train_accuracy": 0.9833333333333333,
+  "final_val_accuracy": 0.9666666666666667
+}
